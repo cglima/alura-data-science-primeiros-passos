@@ -1,6 +1,16 @@
-# Título do curso ou tutorial
+# Data Science: Primeiros passos
 
-Descrição do curso ou tutorial
+Repositório do curso de [Data Science: primeiros passos](https://cursos.alura.com.br/course/data-science-primeiros-passos)
+
+Neste curso veremos: 
+
+- Entre na área de ciência de dados (data science)
+- Explore dados com exploratory data analysis
+- Conheça os tipos de variáveis
+- Entenda o papel de visualizações como histogramas e boxplots
+- Entenda a importância e dê os primeiros passos em visualizações
+- Utilize medidas de resumo
+- Explore seus dados em Python com Pandas, Matplotlib e Seaborn
 
 ## Ambiente de desenvolvimento
 
