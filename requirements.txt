@@ -2,4 +2,5 @@ jupyter
 pytest
 pandas
 matplotlib
-seaborn 
+seaborn
+matplotlib
